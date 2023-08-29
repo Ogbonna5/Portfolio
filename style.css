@@ -1,0 +1,41 @@
+#logo {
+    font-family: Snap ITC;
+    font-size: 30px;
+    padding: 1rem 0;
+    padding-left: 2rem;
+}
+#logo-link {
+    font-family: snap ITC;
+    color: rgb(218, 204, 204);
+}
+
+#logo-link:hover {
+    font-family: snap ITC;
+    padding: 1rem 2rem;
+    background-color: gray;
+    color: rgb(218, 204, 204);
+    border-radius: 10px;
+}
+
+hr {
+    background-color: gray;
+}
+
+img {
+    width: 35rem;
+    height: 37rem;
+    border-radius: 70px;
+}
+
+h3 {
+    font-size: 35px;
+    font-family: snap ITC;
+    text-align: center;
+    color: rgb(218, 204, 204);
+}
+
+p {
+    font-family: snap ITC;
+    text-align: center;
+    color: rgb(218, 204, 204);
+}
