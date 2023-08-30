@@ -39,3 +39,71 @@ p {
     text-align: center;
     color: rgb(218, 204, 204);
 }
+.mar {
+    margin-bottom: 2rem;
+}
+
+.ab {
+    text-align: center;
+    color: rgb(218, 204, 204);
+    font-family: snap ITC;
+}
+.amm {
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.ac {
+    padding-right: 1rem;
+    color: blue;
+}
+
+.acc {
+    padding-right: 1rem;
+    color: blueviolet;
+}
+
+.accc {
+    padding-right: 1rem;
+    color: violet;
+}
+
+.acccc {
+    color: lightgreen;
+}
+
+.sendbutton{
+    color: white;
+    border: none;
+    height: 40px;
+    width: auto;
+    margin: auto;
+    font-size: 22px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: snap ITC;
+    margin-top: 10px;
+    background-color: black;
+}
+
+.button1 {
+    text-align: center;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+
+.sendbutton:hover {
+    color: white;
+    border: none;
+    height: 40px;
+    width: auto;
+    margin: auto;
+    font-size: 22px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: snap ITC;
+    margin-top: 10px;
+    background-color:  rgb(218, 204, 204);;
+}
