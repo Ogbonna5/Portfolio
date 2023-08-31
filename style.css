@@ -37,10 +37,10 @@ h3 {
 p {
     font-family: snap ITC;
     text-align: center;
-    color: rgb(218, 204, 204);
+
 }
 .mar {
-    margin-bottom: 2rem;
+    margin-botto    color: rgb(218, 204, 204);m: 2rem;
 }
 
 .ab {
@@ -106,4 +106,25 @@ p {
     font-family: snap ITC;
     margin-top: 10px;
     background-color:  rgb(218, 204, 204);;
+}
+@media screen and (max-width:667px) {
+    body {
+        background-color: yellow;
+    }
+    .content {
+    display: flex;
+    flex-direction: column-reverse; /* to make the form element come before the text */
+    margin: 4rem 3rem;
+    }
+    .left {
+    width: 100%;
+    padding: 1rem;
+    font-size: 20px;
+    text-align: justify;
+    }
+    .right {
+    width: 100%;
+    padding: 1rem;
+    font-size: 20px;
+    }
 }
