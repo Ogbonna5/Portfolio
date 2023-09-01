@@ -113,7 +113,6 @@ p {
     }
     .content {
     display: flex;
-    flex-direction: column-reverse; /* to make the form element come before the text */
     margin: 4rem 3rem;
     }
     .left {
